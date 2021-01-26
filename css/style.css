@@ -492,7 +492,7 @@ html {
   width: 100%;
   height: calc(113vh - 7rem);
   text-align: center;
-  background: url(images/contact-us-bg.png) center no-repeat;
+  background: url('./images/contact-us-bg.png') center no-repeat;
   background-size: cover;
   animation: contact-bg 35s infinite;
 }
